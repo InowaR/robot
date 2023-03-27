@@ -1,3 +1,5 @@
 # robot
 autonomous robot
-![](robot.png)
+![](point1.png)
+![](point2.png)
+![](point3.png)
