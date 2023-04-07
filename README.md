@@ -2,7 +2,7 @@
 
 ## Why do we need matrices? 
 
-  Think of the discrete and analog magnitude of an electrical signal, a handful of sand consisting of millions of grains of sand that cannot be counted. Volumes of water containing an unimaginable amount of divisible and indivisible particles. Gears and gears of various sizes that convert rotational speeds. Numbers are used to evaluate, compare, number, and calculate the value. In artificial intelligence, numbers are used to transform data.  
+Think of the discrete and analog magnitude of an electrical signal, a handful of sand consisting of millions of grains of sand that cannot be counted. Volumes of water containing an unimaginable amount of divisible and indivisible particles. Gears and gears of various sizes that convert rotational speeds. Numbers are used to evaluate, compare, number, and calculate the value. In artificial intelligence, numbers are used to transform data.  
 
 ## What is a perceptron? 
 
